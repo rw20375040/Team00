@@ -3,5 +3,5 @@
 
 void APrint()
 {
-	printf("y\n");
+	printf("T\n");
 }
